@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "GD5_F_9618_1"
